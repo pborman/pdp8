@@ -12,9 +12,9 @@ I make no guarantees about backwards compatibility for the software
 at this point.
 
 ###### Documentation 
- * os8fs: [![GoDoc](https://godoc.org/github.com/pborman/pdp8/os8fs?status.svg)](http://godoc.org/github.com/pborman/pdp8/os8fs)
- * 8cat: [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8cat?status.svg)](http://godoc.org/github.com/pborman/pdp8/8cat)
- * 8dir: [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8dir?status.svg)](http://godoc.org/github.com/pborman/pdp8/8dir)
- * 8dis: [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8dis?status.svg)](http://godoc.org/github.com/pborman/pdp8/8dis)
- * 8dump: [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8dump?status.svg)](http://godoc.org/github.com/pborman/pdp8/8dump)
- * 8rm: [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8rm?status.svg)](http://godoc.org/github.com/pborman/pdp8/8rm)
+ * [![GoDoc](https://godoc.org/github.com/pborman/pdp8/os8fs?status.svg)](http://godoc.org/github.com/pborman/pdp8/os8fs) for package os8fs
+ * [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8cat?status.svg)](http://godoc.org/github.com/pborman/pdp8/8cat) for program 8cat
+ * [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8dir?status.svg)](http://godoc.org/github.com/pborman/pdp8/8dir) for program 8dir
+ * [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8dis?status.svg)](http://godoc.org/github.com/pborman/pdp8/8dis) for program 8dis
+ * [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8dump?status.svg)](http://godoc.org/github.com/pborman/pdp8/8dump) for program 8dump
+ * [![GoDoc](https://godoc.org/github.com/pborman/pdp8/8rm?status.svg)](http://godoc.org/github.com/pborman/pdp8/8rm) for program 8rm
